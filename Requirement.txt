@@ -1,0 +1,5 @@
+python 3.10
+open CV
+imutils
+pytesseract
+PIL
